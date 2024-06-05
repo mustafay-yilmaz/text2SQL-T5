@@ -7,4 +7,4 @@
 - Integrated the system with a GUI using Python’s Tkinter module, allowing users to generate SQL queries by inputting either Turkish or English sentences.
 
 ### Installation
--For installation, download the provided files and move the "pytorch_model.bin" file from the sql_model folder to the sql_model directory. Similarly, move the "pytorch_model.bin" file from the tr_eng folder. You can download the files from [insert link here].
+- For installation, download the provided files and move the "pytorch_model.bin" file from the sql_model folder to the sql_model directory. Similarly, move the "pytorch_model.bin" file from the tr_eng folder. You can download the files from [insert link here](https://drive.google.com/file/d/1H7JddtLpG_B-Mklt2OHsdpttJ0CY3Ahu/view).
